@@ -1,0 +1,18 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "C",
+  "sourceName": "contracts/EchidnaTest.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "baz",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50606d80601d6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c8063a7916fac14602d575b600080fd5b60336035565b005b56fea2646970667358221220a74854ef02bc3036cfebed346002c799cf043cd488bfd6aa9923071e39cbd77264736f6c63430007030033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060285760003560e01c8063a7916fac14602d575b600080fd5b60336035565b005b56fea2646970667358221220a74854ef02bc3036cfebed346002c799cf043cd488bfd6aa9923071e39cbd77264736f6c63430007030033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
